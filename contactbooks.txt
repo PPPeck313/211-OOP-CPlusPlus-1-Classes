@@ -1,0 +1,17 @@
+a|a
+a|a|123-456-7890|a@aol.com|home|street|apt|city|state|zip
+a|b|223-456-7890|b@aol.com|home|street|apt|city|state|zip
+b|b|323-456-7890|c@aol.com|home|street|apt|city|state|zip
+endofbook|
+
+b|b
+z|a|423-456-7890|d@aol.com|home|street|apt|city|state|zip
+a|z|523-456-7890|e@aol.com|home|street|apt|city|state|zip
+endofbook|
+
+c|c
+x|x|623-456-7890|f@aol.com|home|street|apt|city|state|zip
+c|c|723-456-7890|g@aol.com|home|street|apt|city|state|zip
+f|f|823-456-7890|h@aol.com|home|street|apt|city|state|zip
+r|r|823-456-7890|h@aol.com|home|street|apt|city|state|zip
+endofbook|
